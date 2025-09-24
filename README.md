@@ -35,7 +35,7 @@ To run all automated ending tests:
 `python -m unittest code/TextGamePrototype_TestEndings.py`
 
 ## Documentation
-- [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – Game logic flowchart  
+- [docs/TextGamePrototypeFlowChartFinal.png](docs/TextGamePrototypeFlowChartFinal.png) – Game logic flowchart  
 - [docs/RobinHoodEdexcelPseudocode.md](docs/RobinHoodEdexcelPseudocode.md) - Edexcel iGCSE Computer Science standard Pseudocode for the game
 - [docs/ScreenshotRobinHoodGameplay1.jpg](docs/ScreenshotRobinHoodGameplay1.jpg) – Gameplay screenshot (raw image)
 
