@@ -15,7 +15,7 @@ Features
 **Written as a Jupyter/Colab notebook.**
 
 ## Screenshot
-![Screenshot showing initial options and a single selection](docs/TextGamePrototypeScreenshot1.jpg)
+![Screenshot showing initial options and a single selection](docs/TextGamePrototypeScreenshot1.png)
 
 ## Code
 - [code/TextGamePrototype.ipynb](code/TextGamePrototype.ipynb) – Interactive notebook
@@ -37,7 +37,7 @@ To run all automated ending tests:
 ## Documentation
 - [docs/TextGamePrototypeFlowChartFinal.png](docs/TextGamePrototypeFlowChartFinal.png) – Game logic flowchart  
 - [docs/RobinHoodEdexcelPseudocode.md](docs/RobinHoodEdexcelPseudocode.md) - Edexcel iGCSE Computer Science standard Pseudocode for the game
-- [docs/TextGamePrototypeScreenshot1.jpg](docs/TextGamePrototypeScreenshot1.jpg) – Gameplay screenshot (raw image)
+- [docs/TextGamePrototypeScreenshot1.png](docs/TextGamePrototypeScreenshot1.png) – Gameplay screenshot (raw image)
 
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
