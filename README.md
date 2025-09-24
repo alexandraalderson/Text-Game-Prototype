@@ -15,7 +15,7 @@ Features
 **Written as a Jupyter/Colab notebook.**
 
 ## Screenshot
-![Screenshot showing opening game text and initial options](docs/Screenshot1.jpg)
+![Screenshot showing initial options and a single selection](docs/TextGamePrototypeScreenshot1.jpg)
 
 ## Code
 - [code/TextGamePrototype.ipynb](code/TextGamePrototype.ipynb) – Interactive notebook
