@@ -37,10 +37,10 @@ To run all automated ending tests:
 ## Documentation
 - [docs/TextGamePrototypeFlowChartFinal.png](docs/TextGamePrototypeFlowChartFinal.png) – Game logic flowchart  
 - [docs/RobinHoodEdexcelPseudocode.md](docs/RobinHoodEdexcelPseudocode.md) - Edexcel iGCSE Computer Science standard Pseudocode for the game
-- [docs/ScreenshotRobinHoodGameplay1.jpg](docs/ScreenshotRobinHoodGameplay1.jpg) – Gameplay screenshot (raw image)
+- [docs/TextGamePrototypeScreenshot1.jpg](docs/TextGamePrototypeScreenshot1.jpg) – Gameplay screenshot (raw image)
 
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
 
 ## Challenge
-To create a simple, easy to understand text based game in Python that coveres the full development cycle to allow students to see how a game goes from an idea to an implementation.
+To create a simple, easy to understand text based game in Python that coveres the full development cycle to allow students to see how a game goes from an idea to an implementation. It is a framework for them to be able to customise and adapt to build their own game.
