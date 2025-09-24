@@ -36,7 +36,7 @@ To run all automated ending tests:
 
 ## Documentation
 - [docs/TextGamePrototypeFlowChartFinal.png](docs/TextGamePrototypeFlowChartFinal.png) – Game logic flowchart  
-- [docs/RobinHoodEdexcelPseudocode.md](docs/RobinHoodEdexcelPseudocode.md) - Edexcel iGCSE Computer Science standard Pseudocode for the game
+- [docs/TextGamePrototypePseudocode.txt](docs/TextGamePrototypePseudocode.txt) - Edexcel iGCSE Computer Science standard Pseudocode for the game
 - [docs/TextGamePrototypeScreenshot1.png](docs/TextGamePrototypeScreenshot1.png) – Gameplay screenshot (raw image)
 
 ## License
